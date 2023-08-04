@@ -1,0 +1,6 @@
+surface.CreateFont("NebulaFinance:Fonts:Small", {font = "Montserrat Medium", size = NebulaFinance:Scale(20), weight = 500})
+surface.CreateFont("NebulaFinance:Fonts:Medium", {font = "Montserrat Medium", size = NebulaFinance:Scale(25), weight = 500})
+surface.CreateFont("NebulaFinance:Fonts:Regular", {font = "Montserrat Medium", size = NebulaFinance:Scale(35), weight = 500})
+surface.CreateFont("NebulaFinance:Fonts:Large", {font = "Montserrat SemiBold", size = NebulaFinance:Scale(55), weight = 500})
+surface.CreateFont("NebulaFinance:Fonts:RegularBold", {font = "Montserrat SemiBold", size = NebulaFinance:Scale(35), weight = 500})
+surface.CreateFont("NebulaFinance:Fonts:MediumBold", {font = "Montserrat SemiBold", size = NebulaFinance:Scale(25), weight = 500})
